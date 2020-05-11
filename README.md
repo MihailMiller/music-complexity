@@ -1,7 +1,7 @@
 # Analysis of the complexity evolution of musical dimensions in European art music
 This repository serves to summarize the artifacts that resulted from a student research project on the complexity evolution of European art music (often summarized under the term classical music).
 
-It contains the Python-script used to extract the necessary information from a given MIDI corpus, as well as the yielded boxplots from a R-script.
+It contains the Python-script used to extract the necessary information from a given MIDI corpus, as well as the yielded boxplots from a R-script (also contained).
 
 The methodology for determining the complexity of musical dimensions implements Schannon's entropy measure and is based on the work of **Madsen and Widmer (2015)**:
 
