@@ -32,3 +32,7 @@ UR - https://doi.org/10.1007/s10994-006-8712-x
 DO - 10.1007/s10994-006-8712-x
 ID - Conklin2006
 ER - 
+
+All MIDI-files provided are annotated and occasionally quantized versions of the Public Domain Archives "DisklavierTM World": http://www.kuhmann.com/Yamaha.htm
+
+All MIDI-files, are the copyright(s) of the author/sequencer/performer and/or Robert C. Kuhmann.
