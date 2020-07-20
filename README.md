@@ -1,7 +1,9 @@
-# Analysis of the complexity evolution of musical dimensions in European art music
-This repository serves to summarize the artifacts that resulted from a student research project on the complexity evolution of European art music (often summarized under the term classical music).
+# Analysis of the complexity of musical dimensions in European art music
+This repository serves to summarize the artifacts that resulted from a student research project on the complexity of European art music (often summarized under the term classical music).
 
-It contains the Python-script used to extract the necessary information from a given MIDI corpus, as well as the yielded boxplots from a R-script, which is also contained.
+It contains the Python-script used to extract the necessary information from a given MIDI corpus.
+The script was run on a constructed corpus from the "DisklavierTM World"-Archives, which is public at: http://www.kuhmann.com/Yamaha.htm .
+The results of the feature extraction can be found in corpus/extracted_features.csv.
 
 The methodology for determining the complexity of musical dimensions implements Schannon's entropy measure and is based on the work of **Madsen and Widmer (2015)**:
 
@@ -33,4 +35,4 @@ DO - 10.1007/s10994-006-8712-x
 ID - Conklin2006
 ER - 
 
-All MIDI-files used for the analysis are annotated and occasionally quantized versions of the MIDI-Archives "DisklavierTM World": http://www.kuhmann.com/Yamaha.htm
+All MIDI-files used for the analysis are annotated and occasionally quantized versions of the MIDI-Archives 
